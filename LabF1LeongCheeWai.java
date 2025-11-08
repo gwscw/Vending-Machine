@@ -1,4 +1,3 @@
-package Assisgnment1;
 import java.util.Scanner;
 public class LabF1LeongCheeWai{
     static Scanner scanner=new Scanner(System.in);
@@ -97,4 +96,5 @@ public class LabF1LeongCheeWai{
     System.out.println("See you again!");
     }
 }
+
 
